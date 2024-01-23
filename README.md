@@ -1,4 +1,4 @@
-# -Emotion-Recognition-Application-with-Deep-Learning-from-Facial-Images
+# Emotion Recognition Application with Deep Learning from Facial Images
 
 In this project, we built an emotion recognition model using the Keras library. By analyzing facial expressions, the model is able to detect the emotional states of the user. This can offer an interesting feature that can be used in a wide range of applications, for example, to enhance customer experience, deliver personalized content in the entertainment industry, or monitor emotional states in the healthcare industry.
 
